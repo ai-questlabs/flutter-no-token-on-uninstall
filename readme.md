@@ -1,6 +1,3 @@
-Of course! This is a classic and very common problem in mobile app development. The behavior you're describing almost certainly points to an issue with how your app is **persisting and retrieving the user's authentication state**.
-
-Let's break down why this happens and how to fix it.
 
 ### The Root Cause: App Data is Wiped on Uninstall
 
